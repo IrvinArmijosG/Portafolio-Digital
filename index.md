@@ -3,6 +3,7 @@
 ## 📁 Portafolio Digital de Aprendizaje
 
 ### 🧩 Unidad 1
+[Algoritmos](unidad1.md)
 
 ### ⚙️ Unidad 2
 
